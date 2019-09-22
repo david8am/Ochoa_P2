@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Problem2 {
 	public static void main(String[] args) {
 		
-		System.out.println("Please enter four single digit integers: ");
+		System.out.println("Please enter a four digit integer(Each single int seperated by a space: ");
 		
 		Scanner input = new Scanner(System.in);
 		int num1 = input.nextInt();
