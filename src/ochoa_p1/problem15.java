@@ -4,7 +4,7 @@ public class problem15 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		
-		System.out.println("Please enter four single digit integers: ");
+		System.out.println("Please enter a four digit integer(Each single int seperated by a space: ");
 		
 		int num1 = input.nextInt();
 		int num2 = input.nextInt();
